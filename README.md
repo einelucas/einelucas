@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:6D28D9,100:4C1D95&height=230&section=header&text=Lucas%20F.%20N.%20Pinheiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Development%20%7C%20AI-Powered%20Products&descAlignY=56&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:312E81,70:6D28D9,100:4C1D95&height=230&section=header&text=Lucas%20F.%20N.%20Pinheiro&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20%7C%20Desenvolvimento%20Full-Stack%20%7C%20Produtos%20com%20IA&descAlignY=56&descSize=17"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Software+Engineer;Building+scalable+full-stack+applications;Integrating+AI+into+real-world+products;Engineering+reliable+and+user-focused+solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Engenheiro+de+Software;Construindo+aplica%C3%A7%C3%B5es+full-stack+escal%C3%A1veis;Integrando+IA+em+produtos+reais;Desenvolvendo+solu%C3%A7%C3%B5es+confi%C3%A1veis+e+centradas+no+usu%C3%A1rio" alt="Animação de apresentação"/>
 </a>
 
 <br/>
 
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-Undergraduate-6D28D9?style=flat-square\&labelColor=111827)
-![Product Engineering](https://img.shields.io/badge/Product_Engineering-Mindset-4F46E5?style=flat-square\&labelColor=111827)
-![Location](https://img.shields.io/badge/Dourados-MS%2C_Brazil-7C3AED?style=flat-square\&labelColor=111827)
-![Remote](https://img.shields.io/badge/Open_To-Remote_Opportunities-6366F1?style=flat-square\&labelColor=111827)
+![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-Graduando-6D28D9?style=flat-square&labelColor=111827)
+![Engenharia de Produto](https://img.shields.io/badge/Engenharia_de_Produto-Mentalidade-4F46E5?style=flat-square&labelColor=111827)
+![Localização](https://img.shields.io/badge/Dourados-MS%2C_Brasil-7C3AED?style=flat-square&labelColor=111827)
+![Remoto](https://img.shields.io/badge/Dispon%C3%ADvel_para-Oportunidades_Remotas-6366F1?style=flat-square&labelColor=111827)
 
 <br/>
 
 <a href="https://lucasportfolio-gamma.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-4C1D95?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
 </a>
 <a href="https://www.linkedin.com/in/lucas-f-n-pinheiro">
   <img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,53 +31,53 @@
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=einelucas&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/einelucas?label=Followers&style=flat-square&color=4F46E5&labelColor=111827" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/einelucas?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=7C3AED&labelColor=111827" alt="GitHub stars"/>
+<img src="https://komarev.com/ghpvc/?username=einelucas&label=Visualiza%C3%A7%C3%B5es&color=6D28D9&style=flat-square" alt="Visualizações do perfil"/>
+<img src="https://img.shields.io/github/followers/einelucas?label=Seguidores&style=flat-square&color=4F46E5&labelColor=111827" alt="Seguidores no GitHub"/>
+<img src="https://img.shields.io/github/stars/einelucas?affiliations=OWNER%2CCOLLABORATOR&label=Estrelas&style=flat-square&color=7C3AED&labelColor=111827" alt="Estrelas no GitHub"/>
 
 </div>
 
 ---
 
-## About
+## Sobre
 
-I am a **Software Engineering undergraduate and product-minded Software Engineer** focused on designing, building and deploying reliable digital products.
+Sou **graduando em Engenharia de Software e Engenheiro de Software com mentalidade de produto**, focado em projetar, desenvolver e publicar produtos digitais confiáveis.
 
-My work combines **full-stack development**, **software architecture**, **relational data modeling**, **API engineering**, **responsive interfaces** and **AI integration**. I enjoy transforming operational problems into maintainable software that improves workflows, centralizes information and delivers measurable value to users.
+Meu trabalho combina **desenvolvimento full-stack**, **arquitetura de software**, **modelagem de dados relacionais**, **engenharia de APIs**, **interfaces responsivas** e **integração com inteligência artificial**. Gosto de transformar problemas operacionais em softwares sustentáveis, capazes de melhorar fluxos de trabalho, centralizar informações e gerar valor mensurável para os usuários.
 
-I build applications across the complete product lifecycle: requirements analysis, architecture, interface design, backend development, database modeling, authentication, deployment, production debugging and technical documentation.
+Desenvolvo aplicações durante todo o ciclo de vida do produto: levantamento de requisitos, definição de arquitetura, criação de interfaces, desenvolvimento de backend, modelagem de banco de dados, autenticação, publicação, correção de problemas em produção e documentação técnica.
 
-My professional background in **industrial planning, administrative operations, quality assurance and process control** gives me a practical engineering perspective. I understand that successful software must go beyond clean code: it must solve the correct problem, operate reliably and fit the reality of the people using it.
+Minha experiência profissional em **planejamento industrial, operações administrativas, garantia da qualidade e controle de processos** me proporciona uma perspectiva prática de engenharia. Entendo que um software bem-sucedido precisa ir além de um código limpo: ele deve resolver o problema correto, funcionar com confiabilidade e se adaptar à realidade das pessoas que o utilizam.
 
-### Engineering focus
+### Foco em engenharia
 
-* Full-stack web applications with React, Next.js, Node.js and PostgreSQL
-* REST API design, authentication and relational database modeling
-* AI-powered product features using OpenAI and Claude APIs
-* Industrial dashboards, indicators and operational data workflows
-* Product-oriented development with usability, security and maintainability
-* Production deployment, debugging and continuous improvement
+- Aplicações web full-stack com React, Next.js, Node.js e PostgreSQL
+- Desenvolvimento de APIs REST, autenticação e modelagem de bancos relacionais
+- Funcionalidades com inteligência artificial utilizando OpenAI e Claude APIs
+- Dashboards industriais, indicadores e fluxos de dados operacionais
+- Desenvolvimento orientado a produto, usabilidade, segurança e manutenção
+- Publicação em produção, depuração e melhoria contínua
 
-### Open to
+### Disponível para
 
-> **Remote Software Engineer opportunities** involving full-stack development, product engineering, backend systems, AI-powered applications or industrial technology.
+> **Oportunidades remotas como Engenheiro de Software**, envolvendo desenvolvimento full-stack, engenharia de produto, sistemas backend, aplicações com inteligência artificial ou tecnologia industrial.
 
 ---
 
-## Tech Stack
+## Stack Tecnológica
 
-### Languages
+### Linguagens
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=ts,html,css&theme=dark" alt="Linguagens"/>
 
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-312E81?style=flat-square\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4C1D95?style=flat-square\&logo=postgresql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-4F46E5?style=flat-square\&logo=css3\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-312E81?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4F46E5?style=flat-square&logo=css3&logoColor=white)
 
 </div>
 
@@ -85,471 +85,471 @@ My professional background in **industrial planning, administrative operations, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Tecnologias frontend"/>
 
 <br/>
 
-![React](https://img.shields.io/badge/React-312E81?style=flat-square\&logo=react\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4F46E5?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-6D28D9?style=flat-square)
-![UI Engineering](https://img.shields.io/badge/UI_Engineering-7C3AED?style=flat-square)
+![React](https://img.shields.io/badge/React-312E81?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4F46E5?style=flat-square&logo=tailwindcss&logoColor=white)
+![Design Responsivo](https://img.shields.io/badge/Design_Responsivo-6D28D9?style=flat-square)
+![Engenharia de UI](https://img.shields.io/badge/Engenharia_de_UI-7C3AED?style=flat-square)
 
 </div>
 
-### Backend & Databases
+### Backend e Bancos de Dados
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&theme=dark" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres&theme=dark" alt="Tecnologias backend e banco de dados"/>
 
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-312E81?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=flat-square\&logo=express\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-4C1D95?style=flat-square\&logo=prisma\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4F46E5?style=flat-square\&logo=postgresql\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-6D28D9?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-7C3AED?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-312E81?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-4C1D95?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-6D28D9?style=flat-square)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-7C3AED?style=flat-square)
 
 </div>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps e Ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,npm&theme=dark" alt="Cloud and tooling"/>
+<img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,npm&theme=dark" alt="Cloud e ferramentas"/>
 
 <br/>
 
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square\&logo=vercel\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4C1D95?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-312E81?style=flat-square\&logo=github\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-4F46E5?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Production Debugging](https://img.shields.io/badge/Production_Debugging-6D28D9?style=flat-square)
-![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-7C3AED?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4C1D95?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-4F46E5?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Depuração em Produção](https://img.shields.io/badge/Depura%C3%A7%C3%A3o_em_Produ%C3%A7%C3%A3o-6D28D9?style=flat-square)
+![Documentação Técnica](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o_T%C3%A9cnica-7C3AED?style=flat-square)
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Especialidades em IA / ML
 
-| Domain                      |    Proficiency   | Details                                                                                                                |
-| :-------------------------- | :--------------: | :--------------------------------------------------------------------------------------------------------------------- |
-| **OpenAI API**              |      Applied     | Integration of generative AI into product workflows, structured responses, content generation and application features |
-| **Claude API**              |      Applied     | AI-assisted workflows, prompt-driven application behavior and structured software development support                  |
-| **Prompt Engineering**      | Advanced Applied | Context structuring, constraint definition, output formatting, iterative refinement and task-specific prompt design    |
-| **AI Product Integration**  |      Applied     | Connecting language models to frontend interfaces, backend services, databases and user-oriented workflows             |
-| **Structured Generation**   |      Applied     | Transforming user inputs into organized plans, recommendations, lists and application-ready data                       |
-| **AI-Assisted Engineering** | Advanced Applied | Architecture planning, requirements refinement, code review, documentation and development acceleration                |
-| **Responsible Integration** |    Developing    | Validation, error handling, secure API boundaries, controlled outputs and human-centered product decisions             |
+| Domínio | Proficiência | Detalhes |
+|:---|:---:|:---|
+| **OpenAI API** | Aplicada | Integração de IA generativa em fluxos de produto, respostas estruturadas, geração de conteúdo e funcionalidades de aplicações |
+| **Claude API** | Aplicada | Fluxos assistidos por IA, comportamentos orientados por prompts e suporte estruturado ao desenvolvimento de software |
+| **Engenharia de Prompt** | Aplicada Avançada | Estruturação de contexto, definição de restrições, formatação de saídas, refinamento iterativo e criação de prompts específicos |
+| **Integração de IA em Produtos** | Aplicada | Conexão de modelos de linguagem com interfaces frontend, serviços backend, bancos de dados e fluxos orientados ao usuário |
+| **Geração Estruturada** | Aplicada | Transformação das entradas dos usuários em planos, recomendações, listas e dados organizados para aplicações |
+| **Engenharia Assistida por IA** | Aplicada Avançada | Planejamento de arquitetura, refinamento de requisitos, revisão de código, documentação e aceleração do desenvolvimento |
+| **Integração Responsável** | Em desenvolvimento | Validação, tratamento de erros, limites seguros para APIs, controle de respostas e decisões centradas no usuário |
 
-> My AI focus is practical product engineering: using language models as reliable components inside real applications rather than treating AI as an isolated demonstration.
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>SmartPlate AI — AI-Powered Nutrition Platform</b></summary>
-
-<br/>
-
-SmartPlate AI is a full-stack platform designed to transform personal goals and preferences into structured meal plans, shopping lists and progress-oriented routines.
-
-| Attribute       | Details                                                                                                                                |
-| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stack**       | Next.js, TypeScript, Tailwind CSS, React Query, Prisma, PostgreSQL, Clerk, Stripe and AI APIs                                          |
-| **Scale**       | Multi-feature SaaS workflow covering onboarding, meal planning, favorites, shopping lists, weight history, hydration and subscriptions |
-| **Performance** | Route-based architecture, reusable components, query caching and server-side data operations                                           |
-| **Security**    | Authentication with protected routes, server-side validation, controlled database access and payment boundaries                        |
-| **Impact**      | Converts complex nutritional goals into organized and actionable digital experiences                                                   |
-| **Repository**  | [Find SmartPlate AI in my repositories](https://github.com/einelucas?tab=repositories&q=smartplate)                                    |
-| **Portfolio**   | [View project presentation](https://lucasportfolio-gamma.vercel.app/)                                                                  |
-
-The project demonstrates end-to-end product engineering, from user onboarding and AI-generated planning to database persistence, subscription flows and production deployment.
-
-Its architecture was designed around separation of concerns, maintainable feature modules and a user experience that turns generated content into practical daily actions.
-
-**Core capabilities**
-
-* AI-assisted meal plan generation
-* Personalized nutritional preferences
-* Shopping list generation
-* Meal favorites and ratings
-* Weight and progress history
-* Water intake monitoring
-* Subscription and checkout flows
-* Authenticated user profiles
-* Responsive product interface
-* Production deployment on Vercel
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Mini ERP — Business Management Platform</b></summary>
-
-<br/>
-
-Mini ERP is a full-stack business management system built to demonstrate secure API development, relational data modeling and complete operational workflows.
-
-| Attribute       | Details                                                                                                         |
-| :-------------- | :-------------------------------------------------------------------------------------------------------------- |
-| **Stack**       | Node.js, Express, PostgreSQL, Prisma, TypeScript concepts, JWT and bcrypt                                       |
-| **Scale**       | User management, product catalog, orders, authentication and administrative dashboard                           |
-| **Performance** | Lean REST endpoints, structured service flows and relational persistence                                        |
-| **Security**    | JWT authentication, password hashing, CORS configuration, protected endpoints and environment-based credentials |
-| **Impact**      | Demonstrates how business processes can be centralized in a maintainable web platform                           |
-| **Repository**  | [Find Mini ERP in my repositories](https://github.com/einelucas?tab=repositories&q=erp)                         |
-| **Portfolio**   | [View project presentation](https://lucasportfolio-gamma.vercel.app/)                                           |
-
-The application was developed as a production-oriented system rather than a static interface. It includes authentication, backend validation, business entities and database relationships.
-
-The project also involved solving real deployment challenges involving CORS, SSL connections, environment variables, protected routes and frontend-to-backend communication.
-
-**Core capabilities**
-
-* Secure authentication
-* User registration and management
-* Product registration
-* Order management
-* Administrative dashboard
-* PostgreSQL relational modeling
-* Prisma ORM integration
-* REST API architecture
-* Production environment configuration
-* Error handling and protected routes
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Linktree Premium — Conversion-Focused Link Hub</b></summary>
-
-<br/>
-
-Linktree Premium is a reusable, mobile-first link-in-bio experience built for businesses and personal brands that require more than a simple list of links.
-
-| Attribute       | Details                                                                                           |
-| :-------------- | :------------------------------------------------------------------------------------------------ |
-| **Stack**       | HTML5, CSS3, JavaScript, responsive design, QR Code integration and Web Share API                 |
-| **Scale**       | Reusable structure for stores, service providers, brands, gyms and professional profiles          |
-| **Performance** | Lightweight static delivery, optimized assets and minimal runtime dependencies                    |
-| **Security**    | No unnecessary sensitive data stored in the browser and controlled external navigation            |
-| **Impact**      | Creates a professional digital contact point focused on discoverability, sharing and conversion   |
-| **Repository**  | [Find Linktree projects in my repositories](https://github.com/einelucas?tab=repositories&q=link) |
-| **Portfolio**   | [View project presentation](https://lucasportfolio-gamma.vercel.app/)                             |
-
-The project combines visual identity, usability and direct conversion actions. Its reusable architecture allows each implementation to be customized without rebuilding the complete experience.
-
-The solution includes responsive interactions, sharing resources, QR Code generation and clear calls to action for mobile users.
-
-**Core capabilities**
-
-* Mobile-first responsive layout
-* Custom business branding
-* QR Code generation
-* Native sharing support
-* Contact and social links
-* WhatsApp conversion actions
-* Accessible navigation
-* Lightweight deployment
-* Reusable design structure
-* Client-focused customization
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Dashboard Industrial — Centralized Indicator Management</b></summary>
-
-<br/>
-
-Dashboard Industrial is a data-oriented platform designed to centralize operational indicators, historical records and management information that would otherwise remain fragmented across spreadsheets.
-
-| Attribute       | Details                                                                                                 |
-| :-------------- | :------------------------------------------------------------------------------------------------------ |
-| **Stack**       | Next.js, TypeScript, PostgreSQL, Prisma, responsive UI and data visualization components                |
-| **Scale**       | Monthly data imports, historical records, indicators, dashboard views and management workflows          |
-| **Performance** | Server-side persistence, reusable data queries and dashboard-oriented aggregation                       |
-| **Security**    | Designed around authenticated access, server-side validation and controlled database operations         |
-| **Impact**      | Reduces information fragmentation and improves visibility for planning and operational decision-making  |
-| **Repository**  | [Find dashboard projects in my repositories](https://github.com/einelucas?tab=repositories&q=dashboard) |
-| **Portfolio**   | [View project presentation](https://lucasportfolio-gamma.vercel.app/)                                   |
-
-The project reflects my connection between software engineering and industrial operations. It was designed to replace isolated files with a consolidated and maintainable source of information.
-
-The platform focuses on data reliability, historical continuity, responsive visualization and production-ready database persistence.
-
-**Core capabilities**
-
-* Industrial indicator visualization
-* Spreadsheet data import
-* Historical record persistence
-* Monthly data organization
-* Dashboard filters
-* Responsive navigation
-* Database-backed workflows
-* Production deployment architecture
-* Data validation
-* Centralized management information
-
-</details>
+> Meu foco em inteligência artificial está na engenharia prática de produtos: utilizar modelos de linguagem como componentes confiáveis dentro de aplicações reais, em vez de tratar a IA apenas como uma demonstração isolada.
 
 ---
 
-## Experience
+## Projetos em Destaque
 
-### Planning & Project Controls — INPASA
-
-**2026 — Present | Dourados, Mato Grosso do Sul, Brazil**
-
-Supporting industrial planning activities with a focus on project information, operational visibility, documentation and structured communication.
-
-* Support monitoring of industrial projects, schedules and project status
-* Organize planning information and management documentation
-* Assist with CapEx-related controls and project follow-up
-* Structure data for reports, indicators and decision-making
-* Improve communication between planning, engineering and operational stakeholders
-* Apply software and data skills to industrial management problems
-* Contribute to documentation standardization and information reliability
-
-![Planning](https://img.shields.io/badge/Planning-312E81?style=flat-square)
-![Project Controls](https://img.shields.io/badge/Project_Controls-4C1D95?style=flat-square)
-![Industrial Projects](https://img.shields.io/badge/Industrial_Projects-6D28D9?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4F46E5?style=flat-square)
-![Documentation](https://img.shields.io/badge/Documentation-7C3AED?style=flat-square)
+<details>
+<summary><b>SmartPlate AI — Plataforma de Nutrição com Inteligência Artificial</b></summary>
 
 <br/>
 
-### Administrative Assistant / Apprentice — Energisa MS
+O SmartPlate AI é uma plataforma full-stack desenvolvida para transformar objetivos pessoais e preferências em planos alimentares estruturados, listas de compras e rotinas orientadas ao acompanhamento de progresso.
 
-**May 2025 — March 2026 | Dourados, Mato Grosso do Sul, Brazil**
+| Atributo | Detalhes |
+|:---|:---|
+| **Stack** | Next.js, TypeScript, Tailwind CSS, React Query, Prisma, PostgreSQL, Clerk, Stripe e APIs de IA |
+| **Escala** | Fluxo SaaS com onboarding, planejamento alimentar, favoritos, listas de compras, histórico de peso, hidratação e assinaturas |
+| **Desempenho** | Arquitetura baseada em rotas, componentes reutilizáveis, cache de consultas e operações de dados no servidor |
+| **Segurança** | Autenticação, rotas protegidas, validação no servidor, acesso controlado ao banco e separação dos fluxos de pagamento |
+| **Impacto** | Transforma objetivos nutricionais complexos em experiências digitais organizadas e práticas |
+| **Repositório** | [Localizar o SmartPlate AI nos meus repositórios](https://github.com/einelucas?tab=repositories&q=smartplate) |
+| **Portfólio** | [Ver apresentação do projeto](https://lucasportfolio-gamma.vercel.app/) |
 
-Worked with administrative operations, field-service processes, travel controls, documentation and operational data support.
+O projeto demonstra engenharia de produto de ponta a ponta, desde o onboarding e a geração de planos com IA até a persistência em banco de dados, os fluxos de assinatura e a publicação em produção.
 
-* Managed opening and closing workflows for electrician travel activities
-* Supported food allowance and administrative approval processes
-* Worked with Microsoft Forms, Excel and Power BI-based information flows
-* Organized operational records for multiple cities and field teams
-* Developed Excel solutions for data lookup, reconciliation and control
-* Built VBA-assisted workflows for processing approximately 400 meter-related items
-* Supported document generation, validation, printing and signature workflows
-* Identified opportunities to reduce repetitive manual processes
+Sua arquitetura foi desenvolvida com separação de responsabilidades, módulos sustentáveis e uma experiência de usuário capaz de transformar conteúdos gerados em ações práticas para o cotidiano.
 
-![Excel](https://img.shields.io/badge/Excel-312E81?style=flat-square\&logo=microsoftexcel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-4C1D95?style=flat-square\&logo=powerbi\&logoColor=white)
+**Principais funcionalidades**
+
+- Geração de planos alimentares com IA
+- Preferências nutricionais personalizadas
+- Geração de listas de compras
+- Refeições favoritas e sistema de avaliação
+- Histórico de peso e progresso
+- Monitoramento de consumo de água
+- Fluxos de assinatura e checkout
+- Perfis de usuários autenticados
+- Interface responsiva
+- Publicação em produção na Vercel
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Mini ERP — Plataforma de Gestão Empresarial</b></summary>
+
+<br/>
+
+O Mini ERP é um sistema full-stack de gestão empresarial desenvolvido para demonstrar criação segura de APIs, modelagem relacional de dados e fluxos operacionais completos.
+
+| Atributo | Detalhes |
+|:---|:---|
+| **Stack** | Node.js, Express, PostgreSQL, Prisma, conceitos de TypeScript, JWT e bcrypt |
+| **Escala** | Gestão de usuários, catálogo de produtos, pedidos, autenticação e painel administrativo |
+| **Desempenho** | Endpoints REST enxutos, fluxos de serviço estruturados e persistência relacional |
+| **Segurança** | Autenticação JWT, hash de senhas, configuração de CORS, endpoints protegidos e credenciais por ambiente |
+| **Impacto** | Demonstra como processos empresariais podem ser centralizados em uma plataforma web sustentável |
+| **Repositório** | [Localizar o Mini ERP nos meus repositórios](https://github.com/einelucas?tab=repositories&q=erp) |
+| **Portfólio** | [Ver apresentação do projeto](https://lucasportfolio-gamma.vercel.app/) |
+
+A aplicação foi desenvolvida como um sistema orientado à produção, e não apenas como uma interface estática. Ela inclui autenticação, validação no backend, entidades de negócio e relacionamentos de banco de dados.
+
+O projeto também envolveu a resolução de desafios reais de publicação, incluindo CORS, conexões SSL, variáveis de ambiente, rotas protegidas e comunicação entre frontend e backend.
+
+**Principais funcionalidades**
+
+- Autenticação segura
+- Cadastro e gestão de usuários
+- Cadastro de produtos
+- Gestão de pedidos
+- Painel administrativo
+- Modelagem relacional com PostgreSQL
+- Integração com Prisma ORM
+- Arquitetura de API REST
+- Configuração de ambiente de produção
+- Tratamento de erros e rotas protegidas
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Linktree Premium — Central de Links Focada em Conversão</b></summary>
+
+<br/>
+
+O Linktree Premium é uma experiência reutilizável e mobile-first para links na bio, desenvolvida para empresas e marcas pessoais que precisam de algo além de uma simples lista de links.
+
+| Atributo | Detalhes |
+|:---|:---|
+| **Stack** | HTML5, CSS3, JavaScript, design responsivo, integração com QR Code e Web Share API |
+| **Escala** | Estrutura reutilizável para lojas, prestadores de serviço, marcas, academias e perfis profissionais |
+| **Desempenho** | Entrega estática leve, ativos otimizados e poucas dependências em tempo de execução |
+| **Segurança** | Nenhum dado sensível desnecessário armazenado no navegador e navegação externa controlada |
+| **Impacto** | Cria um ponto de contato digital profissional, focado em descoberta, compartilhamento e conversão |
+| **Repositório** | [Localizar projetos de Linktree nos meus repositórios](https://github.com/einelucas?tab=repositories&q=link) |
+| **Portfólio** | [Ver apresentação do projeto](https://lucasportfolio-gamma.vercel.app/) |
+
+O projeto combina identidade visual, usabilidade e ações diretas de conversão. Sua arquitetura reutilizável permite que cada implementação seja personalizada sem a necessidade de reconstruir toda a experiência.
+
+A solução inclui interações responsivas, recursos de compartilhamento, geração de QR Code e chamadas para ação claras para usuários de dispositivos móveis.
+
+**Principais funcionalidades**
+
+- Layout responsivo e mobile-first
+- Personalização da identidade da empresa
+- Geração de QR Code
+- Compartilhamento nativo
+- Links de contato e redes sociais
+- Ações de conversão pelo WhatsApp
+- Navegação acessível
+- Publicação leve
+- Estrutura visual reutilizável
+- Personalização orientada ao cliente
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Dashboard Industrial — Gestão Centralizada de Indicadores</b></summary>
+
+<br/>
+
+O Dashboard Industrial é uma plataforma orientada a dados, desenvolvida para centralizar indicadores operacionais, registros históricos e informações de gestão que, de outra forma, permaneceriam fragmentados em planilhas.
+
+| Atributo | Detalhes |
+|:---|:---|
+| **Stack** | Next.js, TypeScript, PostgreSQL, Prisma, interface responsiva e componentes de visualização de dados |
+| **Escala** | Importações mensais, registros históricos, indicadores, visualizações de dashboard e fluxos de gestão |
+| **Desempenho** | Persistência no servidor, consultas reutilizáveis e agregações orientadas ao dashboard |
+| **Segurança** | Projetado com acesso autenticado, validação no servidor e operações controladas no banco de dados |
+| **Impacto** | Reduz a fragmentação de informações e melhora a visibilidade para planejamento e tomada de decisão operacional |
+| **Repositório** | [Localizar projetos de dashboard nos meus repositórios](https://github.com/einelucas?tab=repositories&q=dashboard) |
+| **Portfólio** | [Ver apresentação do projeto](https://lucasportfolio-gamma.vercel.app/) |
+
+O projeto representa a conexão entre Engenharia de Software e operações industriais. Ele foi desenvolvido para substituir arquivos isolados por uma fonte de informação consolidada e sustentável.
+
+A plataforma é focada em confiabilidade dos dados, continuidade histórica, visualização responsiva e persistência em banco de dados preparada para produção.
+
+**Principais funcionalidades**
+
+- Visualização de indicadores industriais
+- Importação de dados de planilhas
+- Persistência de registros históricos
+- Organização mensal dos dados
+- Filtros de dashboard
+- Navegação responsiva
+- Fluxos apoiados por banco de dados
+- Arquitetura preparada para produção
+- Validação de dados
+- Centralização das informações gerenciais
+
+</details>
+
+---
+
+## Experiência Profissional
+
+### Planejamento e Controle de Projetos — INPASA
+
+**2026 — Atual | Dourados, Mato Grosso do Sul, Brasil**
+
+Atuação no suporte às atividades de planejamento industrial, com foco em informações de projetos, visibilidade operacional, documentação e comunicação estruturada.
+
+- Apoio ao acompanhamento de projetos industriais, cronogramas e status
+- Organização de informações de planejamento e documentos de gestão
+- Suporte aos controles de CapEx e acompanhamento de projetos
+- Estruturação de dados para relatórios, indicadores e tomada de decisão
+- Melhoria da comunicação entre planejamento, engenharia e áreas operacionais
+- Aplicação de conhecimentos de software e dados em problemas de gestão industrial
+- Contribuição para a padronização de documentos e confiabilidade das informações
+
+![Planejamento](https://img.shields.io/badge/Planejamento-312E81?style=flat-square)
+![Controle de Projetos](https://img.shields.io/badge/Controle_de_Projetos-4C1D95?style=flat-square)
+![Projetos Industriais](https://img.shields.io/badge/Projetos_Industriais-6D28D9?style=flat-square)
+![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise_de_Dados-4F46E5?style=flat-square)
+![Documentação](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-7C3AED?style=flat-square)
+
+<br/>
+
+### Assistente Administrativo / Aprendiz — Energisa MS
+
+**Maio de 2025 — Março de 2026 | Dourados, Mato Grosso do Sul, Brasil**
+
+Atuação em operações administrativas, processos de equipes de campo, controle de viagens, documentação e suporte a dados operacionais.
+
+- Gestão dos fluxos de abertura e encerramento de viagens de eletricistas
+- Suporte aos processos de alimentação e aprovações administrativas
+- Utilização de Microsoft Forms, Excel e fluxos de informações baseados em Power BI
+- Organização de registros operacionais de múltiplas cidades e equipes de campo
+- Desenvolvimento de soluções em Excel para consultas, conferências e controles
+- Criação de fluxos auxiliados por VBA para processamento de aproximadamente 400 itens relacionados a medidores
+- Suporte à geração, validação, impressão e assinatura de documentos
+- Identificação de oportunidades para reduzir atividades manuais repetitivas
+
+![Excel](https://img.shields.io/badge/Excel-312E81?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-4C1D95?style=flat-square&logo=powerbi&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-6D28D9?style=flat-square)
-![Process Automation](https://img.shields.io/badge/Process_Automation-4F46E5?style=flat-square)
-![Operations](https://img.shields.io/badge/Operations-7C3AED?style=flat-square)
+![Automação de Processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o_de_Processos-4F46E5?style=flat-square)
+![Operações](https://img.shields.io/badge/Opera%C3%A7%C3%B5es-7C3AED?style=flat-square)
 
 <br/>
 
-### Quality Assurance — JBS
+### Garantia da Qualidade — JBS
 
-**2024 | Dourados, Mato Grosso do Sul, Brazil**
+**2024 | Dourados, Mato Grosso do Sul, Brasil**
 
-Supported quality assurance activities in an industrial food-production environment with strict documentation, compliance and operational-control requirements.
+Atuação em atividades de garantia da qualidade dentro de um ambiente industrial de produção de alimentos, com rigorosos requisitos de documentação, conformidade e controle operacional.
 
-* Controlled and reviewed more than 1,000 quality documents per week
-* Supported audits and operational quality inspections
-* Monitored temperature, sanitary barriers and production conditions
-* Assisted with foreign-material and nonconformity controls
-* Performed sensory and Good Manufacturing Practices verifications
-* Maintained traceable records for quality and compliance processes
-* Communicated deviations and supported corrective actions
+- Controle e revisão de mais de 1.000 documentos de qualidade por semana
+- Suporte a auditorias e inspeções operacionais de qualidade
+- Monitoramento de temperatura, barreiras sanitárias e condições de produção
+- Apoio aos controles de materiais estranhos e não conformidades
+- Realização de verificações sensoriais e de Boas Práticas de Fabricação
+- Manutenção de registros rastreáveis para processos de qualidade e conformidade
+- Comunicação de desvios e suporte às ações corretivas
 
-![Quality Assurance](https://img.shields.io/badge/Quality_Assurance-312E81?style=flat-square)
-![Auditing](https://img.shields.io/badge/Auditing-4C1D95?style=flat-square)
-![Compliance](https://img.shields.io/badge/Compliance-6D28D9?style=flat-square)
-![Process Control](https://img.shields.io/badge/Process_Control-4F46E5?style=flat-square)
-![Documentation](https://img.shields.io/badge/Documentation-7C3AED?style=flat-square)
+![Garantia da Qualidade](https://img.shields.io/badge/Garantia_da_Qualidade-312E81?style=flat-square)
+![Auditoria](https://img.shields.io/badge/Auditoria-4C1D95?style=flat-square)
+![Conformidade](https://img.shields.io/badge/Conformidade-6D28D9?style=flat-square)
+![Controle de Processos](https://img.shields.io/badge/Controle_de_Processos-4F46E5?style=flat-square)
+![Documentação](https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-7C3AED?style=flat-square)
 
 <br/>
 
-### Industrial Operations — BP Bioenergy
+### Operações Industriais — BP Bioenergy
 
-**2024 | Mato Grosso do Sul, Brazil**
+**2024 | Mato Grosso do Sul, Brasil**
 
-Gained practical exposure to industrial production, extraction processes, operational routines and maintenance environments.
+Experiência prática em produção industrial, processos de extração, rotinas operacionais e ambientes de manutenção.
 
-* Followed industrial extraction and production processes
-* Worked around modular diffuser and milling operations
-* Supported operational calculations and production monitoring
-* Participated in daily safety and operational alignment routines
-* Observed maintenance activities during industrial shutdown periods
-* Developed practical understanding of industrial equipment and process constraints
-* Strengthened communication and safety awareness in a production environment
+- Acompanhamento dos processos industriais de extração e produção
+- Atuação próxima às operações de difusor modular e moagem
+- Suporte a cálculos operacionais e monitoramento de produção
+- Participação em rotinas diárias de segurança e alinhamento operacional
+- Observação de atividades de manutenção durante períodos de parada industrial
+- Desenvolvimento de compreensão prática sobre equipamentos e limitações de processo
+- Fortalecimento da comunicação e da percepção de segurança em ambiente produtivo
 
-![Industrial Operations](https://img.shields.io/badge/Industrial_Operations-312E81?style=flat-square)
-![Process Monitoring](https://img.shields.io/badge/Process_Monitoring-4C1D95?style=flat-square)
-![Safety](https://img.shields.io/badge/Safety-6D28D9?style=flat-square)
-![Maintenance](https://img.shields.io/badge/Maintenance-4F46E5?style=flat-square)
-![Production](https://img.shields.io/badge/Production-7C3AED?style=flat-square)
-
----
-
-## Achievements
-
-|             Recognition             | Details                                                                                                                        |
-| :---------------------------------: | :----------------------------------------------------------------------------------------------------------------------------- |
-|   **Full-Stack Product Delivery**   | Designed, developed and deployed applications covering interfaces, APIs, authentication, databases and production environments |
-|      **AI Product Integration**     | Integrated OpenAI and Claude capabilities into structured software and product-development workflows                           |
-|      **Operational Automation**     | Created spreadsheet and VBA-assisted solutions for high-volume administrative and operational processes                        |
-|      **Quality Documentation**      | Managed and reviewed more than 1,000 quality-related documents per week in an industrial environment                           |
-|    **Production Problem Solving**   | Resolved deployment, CORS, SSL, authentication, database and frontend-to-backend integration issues                            |
-| **Industrial Software Perspective** | Combined software engineering with direct experience in planning, quality, operations and administrative processes             |
-|   **Client-Oriented Development**   | Built responsive digital products for businesses with branding, usability and conversion-oriented experiences                  |
-| **Structured Engineering Practice** | Applies architecture planning, documentation, security considerations and maintainable project organization                    |
+![Operações Industriais](https://img.shields.io/badge/Opera%C3%A7%C3%B5es_Industriais-312E81?style=flat-square)
+![Monitoramento de Processos](https://img.shields.io/badge/Monitoramento_de_Processos-4C1D95?style=flat-square)
+![Segurança](https://img.shields.io/badge/Seguran%C3%A7a-6D28D9?style=flat-square)
+![Manutenção](https://img.shields.io/badge/Manuten%C3%A7%C3%A3o-4F46E5?style=flat-square)
+![Produção](https://img.shields.io/badge/Produ%C3%A7%C3%A3o-7C3AED?style=flat-square)
 
 ---
 
-## Certifications
+## Conquistas
+
+| Reconhecimento | Detalhes |
+|:---:|:---|
+| **Entrega de Produtos Full-Stack** | Projeto, desenvolvimento e publicação de aplicações com interfaces, APIs, autenticação, bancos de dados e ambientes de produção |
+| **Integração de IA em Produtos** | Integração das capacidades da OpenAI e do Claude em fluxos estruturados de software e desenvolvimento de produtos |
+| **Automação Operacional** | Criação de soluções com planilhas e VBA para processos administrativos e operacionais de alto volume |
+| **Documentação da Qualidade** | Gestão e revisão de mais de 1.000 documentos relacionados à qualidade por semana em ambiente industrial |
+| **Resolução de Problemas em Produção** | Correção de problemas envolvendo publicação, CORS, SSL, autenticação, banco de dados e integração entre frontend e backend |
+| **Visão de Software Industrial** | Combinação da Engenharia de Software com experiência prática em planejamento, qualidade, operações e processos administrativos |
+| **Desenvolvimento Orientado ao Cliente** | Criação de produtos digitais responsivos para empresas, com identidade visual, usabilidade e foco em conversão |
+| **Prática Estruturada de Engenharia** | Aplicação de planejamento de arquitetura, documentação, segurança e organização sustentável de projetos |
+
+---
+
+## Certificações
 
 <div align="center">
 
-![Certification Status](https://img.shields.io/badge/Formal_Certifications-Not_Currently_Listed-6D28D9?style=for-the-badge\&labelColor=111827)
+![Status de Certificações](https://img.shields.io/badge/Certifica%C3%A7%C3%B5es_Formais-N%C3%A3o_Listadas_Atualmente-6D28D9?style=for-the-badge&labelColor=111827)
 
 <br/>
 
-This profile does not claim certifications from AWS, Oracle, NPTEL, Cisco or other providers.
+Este perfil não declara certificações da AWS, Oracle, NPTEL, Cisco ou de outros provedores.
 
-Technical capability is represented through practical experience, deployed projects, documented systems and continuous Software Engineering education.
+A capacidade técnica é demonstrada por meio de experiência prática, projetos publicados, sistemas documentados e formação contínua em Engenharia de Software.
 
 </div>
 
-|  Provider  |      Current Status      |
-| :--------: | :----------------------: |
-|   **AWS**  | No certification claimed |
-| **Oracle** | No certification claimed |
-|  **NPTEL** | No certification claimed |
-|  **Cisco** | No certification claimed |
+| Provedor | Status Atual |
+|:---:|:---:|
+| **AWS** | Nenhuma certificação declarada |
+| **Oracle** | Nenhuma certificação declarada |
+| **NPTEL** | Nenhuma certificação declarada |
+| **Cisco** | Nenhuma certificação declarada |
 
 ---
 
-## Coding Profiles
+## Perfis de Programação
 
 <div align="center">
 
 <a href="https://github.com/einelucas">
-  <img src="https://img.shields.io/badge/GitHub-Primary_Coding_Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Perfil_Principal_de_C%C3%B3digo-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub"/>
 </a>
 
 <a href="https://lucasportfolio-gamma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Project_Showcase-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Projetos_em_Destaque-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Portfólio"/>
 </a>
 
 <br/>
 <br/>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-Profile_Not_Publicly_Listed-312E81?style=flat-square\&logo=leetcode\&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile_Not_Publicly_Listed-4C1D95?style=flat-square\&logo=geeksforgeeks\&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Profile_Not_Publicly_Listed-6D28D9?style=flat-square\&logo=hackerrank\&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-Profile_Not_Publicly_Listed-4F46E5?style=flat-square\&logo=codechef\&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-Perfil_n%C3%A3o_listado-312E81?style=flat-square&logo=leetcode&logoColor=white)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Perfil_n%C3%A3o_listado-4C1D95?style=flat-square&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Perfil_n%C3%A3o_listado-6D28D9?style=flat-square&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-Perfil_n%C3%A3o_listado-4F46E5?style=flat-square&logo=codechef&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=einelucas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=6D28D9&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=einelucas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=6D28D9&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=einelucas&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=einelucas&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições no GitHub"/>
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einelucas&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" alt="Most used languages"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=einelucas&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10&locale=pt-br" alt="Linguagens mais utilizadas"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Troféus do GitHub
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=einelucas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=einelucas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="Troféus do GitHub"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## Atividade de Contribuições
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=einelucas&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Lucas%20Pinheiro%27s%20Contribution%20Activity" alt="Contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=einelucas&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es%20de%20Lucas%20Pinheiro" alt="Gráfico de atividade de contribuições"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+## Animação de Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/einelucas/einelucas/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/einelucas/einelucas/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/einelucas/einelucas/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/einelucas/einelucas/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## Current Focus
+## Foco Atual
 
 ```yaml
-profile:
-  role: Software Engineer
-  location: Dourados, Mato Grosso do Sul, Brazil
-  availability: Remote opportunities
+perfil:
+  cargo: Engenheiro de Software
+  localizacao: Dourados, Mato Grosso do Sul, Brasil
+  disponibilidade: Oportunidades remotas
 
-learning:
-  - Advanced software architecture
-  - Scalable backend design
-  - Database performance and modeling
-  - Secure API engineering
-  - Production observability
-  - AI application architecture
+estudando:
+  - Arquitetura de software avançada
+  - Desenvolvimento de backends escaláveis
+  - Desempenho e modelagem de bancos de dados
+  - Desenvolvimento seguro de APIs
+  - Observabilidade em produção
+  - Arquitetura de aplicações com IA
 
-building:
-  - Full-stack web applications
-  - AI-powered product experiences
-  - Industrial dashboards
-  - Business management systems
-  - Data-centered operational tools
-  - Responsive client solutions
+desenvolvendo:
+  - Aplicações web full-stack
+  - Experiências de produto com IA
+  - Dashboards industriais
+  - Sistemas de gestão empresarial
+  - Ferramentas operacionais orientadas a dados
+  - Soluções responsivas para clientes
 
-exploring:
-  - Event-driven architectures
-  - Distributed system fundamentals
-  - Automated testing strategies
-  - CI/CD workflows
-  - Cloud-native application patterns
-  - Reliable AI integrations
+explorando:
+  - Arquiteturas orientadas a eventos
+  - Fundamentos de sistemas distribuídos
+  - Estratégias de testes automatizados
+  - Fluxos de CI/CD
+  - Padrões de aplicações cloud-native
+  - Integrações confiáveis com IA
 
-open_to:
-  - Remote Software Engineer roles
-  - Full-stack development opportunities
-  - Product engineering teams
-  - AI-powered software projects
-  - Industrial technology solutions
-  - Open-source collaboration
+disponivel_para:
+  - Vagas remotas de Engenharia de Software
+  - Oportunidades de desenvolvimento full-stack
+  - Equipes de engenharia de produto
+  - Projetos de software com IA
+  - Soluções de tecnologia industrial
+  - Colaboração em projetos open source
 ```
 
 ---
 
-## Connect
+## Conecte-se Comigo
 
 <div align="center">
 
@@ -572,13 +572,13 @@ open_to:
 <br/>
 
 <a href="https://lucasportfolio-gamma.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View_Projects-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_Projetos-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" alt="Portfólio"/>
 </a>
 
 <br/>
 <br/>
 
-**Available for remote Software Engineer opportunities, technical collaborations and product-focused projects.**
+**Disponível para oportunidades remotas como Engenheiro de Software, colaborações técnicas e projetos orientados a produto.**
 
 </div>
 
@@ -586,7 +586,7 @@ open_to:
 
 <div align="center">
 
-### Engineering is the discipline of turning complexity into reliable products.
+### Engenharia é a disciplina de transformar complexidade em produtos confiáveis.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,35:6D28D9,70:312E81,100:0F172A&height=140&section=footer"/>
 
