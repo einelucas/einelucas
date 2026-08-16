@@ -25,10 +25,23 @@ Atualmente, busco oportunidades remotas em desenvolvimento de software nas quais
 
 ## Tecnologias
 
-- **Frontend:** TypeScript, React, Next.js, Vue, Nuxt e Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI e APIs REST
-- **Dados e autenticação:** PostgreSQL, Prisma, Auth.js e Clerk
-- **IA e ferramentas:** OpenAI API, Git, GitHub e Vercel
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxt,tailwind&theme=dark" alt="TypeScript, React, Next.js, Vue, Nuxt e Tailwind CSS" />
+
+**Backend e dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,prisma&theme=dark" alt="Node.js, Express, Python, FastAPI, PostgreSQL e Prisma" />
+
+**Ferramentas e deploy**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Git, GitHub, Vercel e Visual Studio Code" />
+
+</div>
+
+Também trabalho com **APIs REST, Auth.js, Clerk e OpenAI API**.
 
 ## Em evolução
 
@@ -43,4 +56,3 @@ Estou aberto a oportunidades, colaborações e conversas sobre desenvolvimento d
 - [LinkedIn](https://www.linkedin.com/in/lucas-f-n-pinheiro)
 - [Portfólio](https://lucasportfolio-gamma.vercel.app/)
 - [lucaspinheiro863@gmail.com](mailto:lucaspinheiro863@gmail.com)
-
