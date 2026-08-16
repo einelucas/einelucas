@@ -20,7 +20,7 @@ Atualmente, busco oportunidades remotas em desenvolvimento de software nas quais
 | --- | --- | --- |
 | [ChainLinks](https://github.com/einelucas/chainlinks) | SaaS multiusuário para criação e personalização de páginas de links, com pré-visualização e gerenciamento de conteúdo. | Next.js, TypeScript, Prisma, PostgreSQL |
 | [Central de Solicitações](https://github.com/einelucas/sistema-de-chamados) | Sistema de chamados com perfis de acesso, histórico, indicadores e organização do fluxo de atendimento. | Nuxt, Vue, FastAPI, PostgreSQL |
-| [SmartPlate AI](https://github.com/einelucas/meal-plan-generator-ai) | Plataforma para geração de planos alimentares com IA, autenticação, persistência de dados e assinaturas. | Next.js, TypeScript, Prisma, PostgreSQL, OpenAI API |
+| [SmartPlate AI](https://github.com/einelucas/smartplate-ai) | Plataforma para geração de planos alimentares com IA, autenticação, persistência de dados e assinaturas. | Next.js, TypeScript, Prisma, PostgreSQL, OpenAI API |
 | [Mini ERP](https://github.com/einelucas/mini-erp) | API para gestão de entidades e rotinas de negócio, com autenticação e banco de dados relacional. | Node.js, Express, Prisma, PostgreSQL |
 
 ## Tecnologias
